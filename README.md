@@ -17,7 +17,12 @@ Honored to be an **Arctic Code Vault Contributor (2020)**—my code is officiall
 ### 📊 GitHub Activity
 ![Indra's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrasevenid&show_icons=true&theme=tokyonight)
 
+### 📫 How to reach me
+- **Telegram:** [@Indraseven]
+- **Email:** [Draolih7@gmail.com]
+- **Twitter:** [@Indraseven8]
+- **Discord:** [@indrasevenid]
+
 ---
 *“Building digital legacies from the terminal.”*
 
- > Currently experimenting with Git branches.
